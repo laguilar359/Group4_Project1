@@ -28,5 +28,16 @@ Working Options:
         use filters to determine good opportunity to buy specific stocks depending on pre-set parameters
         
 
+IMAGES
+
+
+
+
+
+
+
+
+
+
 
 
