@@ -33,7 +33,7 @@ Yes. By combining data files from all stocks in the S&P 500 for selected time fr
 ![Top Growing Stocks in the Past 1 Month](https://github.com/laguilar359/Group4_Project1/blob/master/Images/1Month_TopStocks.png)
 ![Top Growing Stocks in the Past 6 Months](https://github.com/laguilar359/Group4_Project1/blob/master/Images/6Month_TopStocks.png)
 ![Top Growing Stocks in the Past 1 Year](https://github.com/laguilar359/Group4_Project1/blob/master/Images/1Year_TopStocks.png)
-!
+![Top Growing Stocks in the Past 5 Years](https://github.com/laguilar359/Group4_Project1/blob/master/Images/5Year_TopStocks.png)
 
 
 
@@ -44,26 +44,20 @@ Technology and Healthcare are the best performing sectors across 6 months, 1 yea
 
 
 ![Market Performance by Russell 3000 Sector over the Past 1 Month](https://github.com/laguilar359/Group4_Project1/blob/master/Images/001Month_Sectors.png)
+![Market Performance by Russell 3000 Sector over the Past 6 Months](https://github.com/laguilar359/Group4_Project1/blob/master/Images/006Month_Sectors.png)
 ![Market Performance by Russell 3000 Sector over the Past 1 Year](https://github.com/laguilar359/Group4_Project1/blob/master/Images/01Year_Sectors.png)
-
+![Market Performance by Russell 3000 Sector over the Past 5 Years](https://github.com/laguilar359/Group4_Project1/blob/master/Images/05Year_Sectors.png)
 
 
 
 Are we able to extrapolate any common characteristics from the list?
 
-
-
-
-
-
-
-
-
+Yes the application enables the user to select a particular sector and find out performing stocks along with a graphical visualization , allowing the user to make an informed decision.
 
 
 Can we use this data to illustrate a graphical representation of our results?
 
-
+By extrapolating our data set based on our search inquiry, we are able to create a graphical representation of our results that incorporates several technical financial indicators like the Simple Moving Average (SMA) and Exponential Moving Average (EMA) represented with Open, High, Low and Close candlestick charts.
 
 
 
