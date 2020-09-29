@@ -31,16 +31,16 @@ pn.extension('plotly')
 
 
 # Read in stock data and add new header with column names
-one_mo_returns = pd.read_csv(Path("../Resources/stocks_1month_returns.csv"), 
+one_mo_returns = pd.read_csv(Path("Resources/stocks_1month_returns.csv"), 
      names=["Null", "Ticker","Company Name", "Current Price", "Null2", "1 Month Price", "1 Mth Growth"])
-six_mo_returns = pd.read_csv(Path("../Resources/stocks_6month_returns.csv"), 
+six_mo_returns = pd.read_csv(Path("Resources/stocks_6month_returns.csv"), 
      names=["Null", "Ticker","Company Name", "Current Price", "Null2", "6 Month Price", "6 Mth Growth"])
-one_yr_returns = pd.read_csv(Path("../Resources/stocks_1yr_returns.csv"), 
+one_yr_returns = pd.read_csv(Path("Resources/stocks_1yr_returns.csv"), 
      names=["Null", "Ticker","Company Name", "Current Price", "Null2", "1 Year Price", "1 Yr Growth"])
-five_yr_returns = pd.read_csv(Path("../Resources/stocks_5yr_returns.csv"), 
+five_yr_returns = pd.read_csv(Path("Resources/stocks_5yr_returns.csv"), 
      names=["Null", "Ticker","Company Name", "Current Price", "5 Year Price", "Null2", "5 Yr Growth"])
-sp500_returns = pd.read_csv(Path("../Resources/index_sp500_returns.csv"))
-sp500_sectors = pd.read_csv(Path("../Resources/sp500_sectors.csv"))
+sp500_returns = pd.read_csv(Path("Resources/index_sp500_returns.csv"))
+sp500_sectors = pd.read_csv(Path("Resources/sp500_sectors.csv"))
 
 # View data head
 five_yr_returns.head()
